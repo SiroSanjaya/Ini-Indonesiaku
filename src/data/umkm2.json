@@ -1,0 +1,156 @@
+{
+    "umkms": [
+           
+        {
+            "id": 1,
+            "city": "Surakarta",
+            "hero": "a.jpg",
+            "tag": "#UMKM Surakarta",
+            "intro1": "Surakarta Terkenal sebagai destinasi Wisata kuliner populer. Kenikmatan dari makanan khas solo  kerap menyisakan kerinduan di kota ini, ketika berkunjung ke surakarta, kamu wajib membeli beberapa umkm legenda yang ada di surakarta untuk dijadikan oleh-oleh untuk diberikan ke kerabat ",
+            "title2": "Rekomendasi UMKM legenda yang ada di Surakarta",
+            "intro2": "Ini merupakan rekomendasi UMKM Legenda yang wajib anda kunjungi ketika berkunjung ke surakarta",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1D2VKs95m8eoywScEVrEW0mKhXZcW2hA&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Serabi Notosuman",
+                    "img_folder": "bali",
+                    "picture": "Surakarta.png",
+                    "description": "Makanan satu ini sudah ada sejak tahun 1920-an dan menjadi kuliner buruan wisatawan. Serabi Notosuman berbeda dengan serabi dari daerah daerah lain. Serabi ini digulung, lalu dibungkus mengunakan daun pisang dan dihidangkan tanpa menggunakan kuah, sehingga bisa langsung dimakan. Serabi Notosuman cenderung agak tebal, lembut, kenyal dan legit. Bagian pinggir dari serabi terasa sedikit renyah. Aroma gurih tercium kuat saat dihidangkan. Serabi ini dibuat dari santan yang dicampur dengan sedikit tepung dan dipanggang di atas api.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Roti Semir Orion",
+                    "img_folder": "bali",
+                    "picture": "Surakarta2.png",
+                    "description": "Jika dilihat tampilannya, roti semir Orion ini sangat biasa. Namun, jangan ragukan soal rasanya. Roti Orion Solo sudah berdiri sejak tahun 1932. Roti semir satu ini mempertahankan resepnya yang simple dan klasik.Roti semir hanya terdapat dua varian rasa: semir putih dan semir cokelat. Wujud dari roti ini hanya roti berbentuk bulat biasa dan dibelah menjadi dua. Di tengahnya diberi semir roti. Semir putih terdiri dari mentega putih yang dicampur dengan gula. Bahan-bahan yang digunakan tidak mengandung pengawet. Untuk varian cokelatnya, hanya menambahkan meses coklat di atas olesan mentega. Harga satu paket roti sebesar Rp 40.000, satu paketnya terdiri dari 10 roti. Roti semir Orion sangat nikmat jika disanpat pada pagi hari dengan secangkir kopi atau teh. Roti semir bisa bertahan hingga satu minggu. Selain roti semir, Toko Roti Orion juga terkenal dengan roti mandarijn lapisnya.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Intip Goreng Solo",
+                    "img_folder": "bali",
+                    "picture": "Surakarta3.png",
+                    "description": "<p>Kuliner khas Solo mayoritas menonjolkan rasa manisnya, termasuk intip goreng Solo. Makanan satu ini berbentuk seperti rengginang, kerak nasi yang digoreng hingga teksturnya kering. </p>            <p>Perbedaannya terletak pada gula merah yang dituangkan di atas intip. Sensasi memakan intip goreng Solo sangat asyik. Terkstur intip yang renyah serta rasanya gurih berpadu dengan saus gula merah yang lengket dan manis. </p> <p> Kamu bisa mudah menemukan intip goreng di Solo. Namun, salah satu yang direkomendasikan adalah intip goreng dari Mbah Boniyem. Nenek lanjut usia ini sudah menjual intip goreng di Pasar Gede sejak tahun 1945. Ia berjualan di Pasar besar Solo itu tepatnya berada di kios 78. Di depan lapak sederhana miliknya, intip goreng yang sudah matang disajikan. Harga intip perkilo dari Mbah Boniyem dijual mulai dari Rp 50.000. Namun, kamu juga bisa membeli per kemasan dengan harga yang berbeda.</p> ",
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Abon Mesran",
+                    "img_folder": "bali",
+                    "picture": "Surakarta4.png",
+                    "description": "<p>Abon yang terkenal di Solo ini wajib jadi salah satu oleh-olehmu. Kuliner khas Solo ini punya rasa gurih dan nagih. Mesran sendiri diambil dari nama pemilik toko, Mesran Mistopawiro. Produk kualitas unggulannya adalah Abon Sapi dan Abon Ayam.</p><p>Toko Abon Mesran berlokasi di Jl. Kalilarangan No. 71, Jayengan, Serengan Kota Surakarta. Toko ini buka setiap hari mulai pukul 08.00 WIB sampai pukul 21.00 WIB. Abon Mesran memiliki ciri khas aroma rempah-rempah yang kuat dengan paduan rasa original yang gurih manis dan pedas manis. Abon sangat nikmat jika disantap dengan nasi hangat.</p> <p> Di toko Mesran menyediakan jenis abon berbahan dasar daging ayam dan sapi. Harganya pun bervariasi, mulai dari Rp. 60.000 hingga ratusan ribu rupiah tergantung isi dari abon yang dijual. Selain abon kamu juga bisa membeli serundeng.</p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "5",
+                    "name": "Ampyang",
+                    "img_folder": "bali",
+                    "picture": "Surakarta5.png",
+                    "description": "<p> Ampyang menjadi salah satu jajanan khas Solo yang unik. Menurut cerita yang berkembang di masyarakat, makanan ini sering disebut sebagai contoh pernikahan dari pasangan berbeda ras. 'Kacang Cino, Gulo Jowo' yang artinya kedua mempelai memiliki darah Jawa dan Tionghoa. Makanan ini juga berbahan dasar dari kacang dan gula Jawa. Ampyang merupakan satu di antara banyak oleh-oleh khas Solo yang memiliki rasa manis dan gurih. Manis dari gula Jawa dan gurih dari kacang.</p> <p>Tekstur dari ampyang sendiri sangat renyah dan tidak terlalu keras. Gula Jawa dilelehkan lalu di atasnya diberi taburan kacang. Ampyang akan mudah dijumpai di Solo. Dari toko oleh-oleh mewah hingga pedagang kaki lima. Rata-rata harga dari sebungkus ampyang dari Rp 10.000 hingga Rp 20.000.</p> ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+      
+        {
+            "id": 2,
+            "city": "Bandung",
+            "hero": "bandung.png",
+            "tag": "#UMKM Bandung",
+            "intro1": "Bulan suci Ramadan merupakan momentum yang tepat banget buat berbagi kepada sesama. Selain berbagi waktu bersama keluarga saat sahur dan berbuka puasa, Sobat Pesona juga bisa berbagi bingkisan kepada mereka atau teman-teman terdekat Sobat Pesona. Di bulan yang spesial ini, #DiIndonesiaAja biasanya akan ada banyak toko camilan yang menyediakan paket berupa hampers. Sobat Pesona tau enggak apa itu hampers? Sama seperti parcel pada umumnya, hampers merupakan bingkisan berisikan makanan dan minuman yang ditata dengan rapi serta dihias dengan cantik. Bingung mau ngirim hampers apa ke saudara-saudara atau teman-teman terdekat? Enggak usah khawatir! Kali ini kami mau ngasih tahu Sobat Pesona ide hampers Ramadan dari 5 UMKM asal Bandung. Langsung cek aja yuk, 5 UMKM tersebut di bawah ini!",
+            "title2": "Cek 5 UMKM Jempolan di Bandung Ini!",
+            "intro2": "Ini merupakan rekomendasi UMKM yang wajib anda ditangi jika di Bandung dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke Bandung.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1D2VKs95m8eoywScEVrEW0mKhXZcW2hA&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": " SamaSama Cakery",
+                    "img_folder": "bali",
+                    "picture": "Rectangle.png",
+                    "description": "Mau ngasih yang manis-manis? Coba deh liat aneka ragam pilihan camilan buatan SamaSama Cakery! UMKM spesialis dessert ini menyediakan camilan-camilan dingin yang menggugah selera. Selain rasanya yang enak dan nyegerin, semua menu SamaSama Cakery dibuat dengan tampilan yang cantik dan lucu-lucu, lho! Jadi cocok banget buat dibagiin ke orang-orang tersayang. Beberapa kudapan yang bisa Sobat Pesona temukan di sini antara lain ada es teler, es goyobod, dan es podeng. Enggak berhenti sampai situ, SamaSama cakery juga menyediakan kue-kue imut dengan rasa coklat dan berbagai buah segar, seperti jeruk, strawberry, dan blueberry. Pokoknya, siapapun yang dapet hampers SamaSama Cakery pasti bakal happy, deh!",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Roti Semir Orion",
+                    "img_folder": "bali",
+                    "picture": "Rectangle2.png",
+                    "description": "Sobat Pesona punya orang tua yang suka banget sama camilan tradisional? Wah, pas banget nih sama UMKM yang satu ini! Dapur Cici Mesem menyediakan kue gambang dengan rasa-rasa yang nikmat. Ada rasa cokelat, rasa kopi, rasa kacang, rasa keju, juga rasa klasik dengan taburan wijen. Selain kue gambang, Dapur Cici Mesem juga menyediakan teh dengan berbagai varian, mulai dari teh original, teh hijau, sampai teh hitam. Tehnya cocok banget lho buat dinikmatin bareng setiap rasa kue gambang yang tersedia di sini! Kalo mau lebih mantep lagi, teh-teh ini juga bisa kok dicampur sama madu atau susu! Orang tua Sobat Pesona dijamin makin sayang deh kalo dikasih kue gambang sama teh racikan Dapur Cici Mesem. ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Kudapan Nyonya Ann",
+                    "img_folder": "bali",
+                    "picture": "Rectangle3.png",
+                    "description": "Buat Sobat Pesona yang masih butuh pilihan camilan tradisional yang lain, wajib banget nih buat ngecek Kudapan Nyonya Ann! UMKM yang satu ini menyuguhkan berbagai pilihan camilan tradisional khas sejumlah daerah di Indonesia. Beberapa di antaranya adalah jalangkote (pastel khas Makassar yang dibuat lebih tipis dan disajikan dengan sambal cuka), kue soes dengan rasa original dan durian, kue nona manis (kue khas Sulawesi yang terbuat dari paduan santan dan pandan), juga tahu bakso. Sobat Pesona ada yang penasaran sama harganya? Tenang aja! Menu Kudapan Nyonya Ann dibanderol dengan harga yang terjangkau, kok! Jadi nyaman buat kantong. ",
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "4",
+                    "name": "Bangkerok Bandung",
+                    "img_folder": "bali",
+                    "picture": "Rectangle4.png",
+                    "description": "Bosen ngebagiin camilan yang itu-itu aja? Kenalan dulu nih sama bangkerok, pizza kearifan lokal khas Sunda. Perbedaan dari camilan yang juga dikenal sebagai onger ketan ini dengan pizza adalah bahannya. Bangkerok tidak terbuat dari adonan tepung, melainkan dari nasi ketan yang dibumbui. Nasi ketan tersebut kemudian dipanggang hingga matang. Salah satu UMKM yang menjual camilan unik yang jarang ditemukan ini adalah Bangkerok Bandung. Di sini, Sobat Pesona bisa menemukan beraneka ragam isian, mulai dari kacang, oncom, serundeng, ayam, keju, hingga seblak. Isian-isian lezat tersebut juga bisa Sobat Pesona campur sesuai selera, lho! ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                },
+                {
+                    "id": "5",
+                    "name": "Tahu Balik Bandung",
+                    "img_folder": "bali",
+                    "picture": "Rectangle5.png",
+                    "description": "Sobat Pesona ada yang udah pernah denger tahu balik belum? Kalo belum, berarti ini waktu yang pas buat nyobain dan ngebagiin camilan yang satu ini! Menyerupai batagor, tahu balik dikenal dengan cita rasanya yang gurih serta teksturnya yang crispy. Buat nyari toko yang jual tahu balik Sobat Pesona enggak perlu cari sana-sini. Langsung aja cek Tahu Balik Bandung! UMKM ini menyediakan dua varian tahu balik, ada yang digoreng dan ada yang pakai kuah. Varian manapun yang pesona pilih, pastinya bisa bikin Sobat Pesona, keluarga, dan temen-temen terdekat jadi ketagihan, deh! ",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d505145.82621205127!2d114.79069601611943!3d-8.455371265745528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd141d3e8100fa1%3A0x24910fb14b24e690!2sBali!5e0!3m2!1sen!2sid!4v1654221001425!5m2!1sen!2sid"
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "city": "NTT",
+            "hero": "bb.jpg",
+            "tag": "#UMKM NTT",
+            "intro1": "Mungkin banyak yang belum tahu makanan khas dari NTT dan NTB yang memeiliki kelezatan dan keunikan tersendiri. Makanan khas daerah memeiliki rasa yang berbeda dan keunikan dari bentuk masakan tersebut. Jangan diragukan lagi kualitas rasa, yang pastinya enak dilidah dan bisa dikenang untuk nantinya. Buat anak milenial sekarang jangan sering makanan yang cepat saji terus, nih ada makanan khas yang tidak kalah enak dari rasa makanan restaurant. Berikut makanan khas NTT dan NTB.",
+            "title2": "Simak UMKM unik dari tanah NTT",
+            "intro2": "Ini merupakan rekomendasi UMKM yang wajib anda ditangi jika di NTT dikarenakan sangat populer dan selalu menjadi prioritas wisatawan untuk dikunjungi saat pertama kali liburan ke NTT.",
+            "maps": "https://www.google.com/maps/d/u/0/embed?mid=1ZsTv82y0TMkOmuSZHQ-1dB7i5ehgSl8&ehbc=2E312F",
+            "destination": [{
+                    "id": "1",
+                    "name": "Jagung Bose",
+                    "picture": "NTT.png",
+                    "description": "Jika kalian main ke Nusa Tenggara Tinur belum mencicipi makanan khas ini, brarti kalian belum pernah ke NTT. Pembuatan jagung bose ini melalu proses yang cukup panjang dan sekilas kita melihat bentuk dari jagung bose ini seperti mirip dengan kolak. Jagung bose ini biasanya disajikan dalam acara-acara besar. Sensasi manis dan asin dari jagung bose ini membuat orang yang mencium aromanya merasa kenyang. Jagung bose ini bisa kita jumpai di tanah flores, dan jagung bose bisa dihadirkan seperti sup atau burbur untuk pengganti nasi. Selain itu jagung bose juga bisa ditambahkan sayur-sayuran dan ikan untuk menyesuaikan dengan lidah.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                },
+                {
+                    "id": "2",
+                    "name": "Catemak",
+                    "img_folder": "jogja",
+                    "picture": "NTT2.png",
+                    "description": "Katemak juga makanan khas yang berasal dari nusa tenggara timur. Katemak sendiri mempunyai bahan dasar yaitu biji jagung yang direbus bersamaan dengan kacang-kacangan, daun dan buah pepaya, atau bisa juga dengan daun dan buah labu. Katemak ini biasanya dihidangkan dengan sambal luat dan juga ikan teri atau ikan asin.",
+                    "rating": 4.6,
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                },
+                {
+                    "id": "3",
+                    "name": "Se’i",
+                    "img_folder": "jogja",
+                    "picture": "NTT3.png",
+                    "description": "Makanan khas yang satu ini memilki penyajian yang proses pembuatanya berbeda. Se’i adalah daging yang diawetkan dengan cara asap dan panas yang dibuat dari pembakaran kayu. Daging se’i diasap karena dalam pengasapan menggunakan kayu dapat membunuh jamur dan bakteri dalam daging. Awalnya daging se’i adalah daging rusa, akan tetapi sekarang rusa dilindungi dan langka akhirnya masyarakat ntt menggantinya dengan daging sapi atau babi. Teknik pengasapan daging se’i tidak menggunakan sembarang kayu, jika menggunakan kayu sembarangan akan merusak cita rasa dari daging sei tersebut, mangkannya masyarakat ntt menggunakan kayu kosambi untuk pengasapan.",
+                    "maps": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97077191143!2d110.33982533136371!3d-7.803249010407903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Yogyakarta%20City%2C%20Special%20Region%20of%20Yogyakarta!5e0!3m2!1sen!2sid!4v1654506353683!5m2!1sen!2sid"
+                }        
+                
+            ]
+            
+        }
+            ]
+        }
+
